@@ -33,3 +33,7 @@ This was determined via the following code:
 
 
 *Diana DeGette won the election with 272,892 votes which gave her 73.8% of the total votes - a landslide victory!
+
+
+*This script will be good for automating key election results such as total votes, percentage of votes, highest vote turnout and associating that information with candidate name and county. However, some modifications can be utilized to the code for it to be used for primary elections where variables such as party affiliation, gender, age etc. can be added to the code. This way demographic information can be obtained on who is voting for which candidate within a specific party. Another way the code can be modified is to use as a template to potentially predict probability of voter turnout and chances of which candidate has the highest chance of getting more votes within a given county/state or country. This of course will require a substainal amount of existing voting data but thankfully much of that is available online (e.g. registered party affiliation, elections in which you did vote in or not, voter name and address, some popularity survey).
+
